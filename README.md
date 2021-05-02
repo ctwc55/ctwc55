@@ -2,9 +2,9 @@
 
 ## Github Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="35%">&nbsp 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="35%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="45%">&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="45%">
 </p>
 
 </br>
