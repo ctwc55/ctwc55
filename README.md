@@ -1,5 +1,11 @@
 ## Hi there, Welcome to my Github page! 👋
 
+## 📚 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp 
+</p>
+
 ## Github Stats
 
 <p align="center">
@@ -7,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="49%">
 </p>
 
-</br>
+<br>
 
 ## Solved.ac Stats
 
