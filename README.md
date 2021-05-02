@@ -4,8 +4,8 @@
 
 <table style="border: 0px solid transparent;">
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></td> 
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></td>
+    <td height="0" width="50%"><div style="height:100%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></div></td> 
+    <td height="0" width="50%"><div style="height:100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></div></td>
   </tr>
 </table>
 
