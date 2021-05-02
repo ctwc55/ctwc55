@@ -3,8 +3,8 @@
 ## Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="50%">&nbsp 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%">&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%">
 </p>
 
 </br>
