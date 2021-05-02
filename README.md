@@ -2,7 +2,7 @@
 
 ## Github Stats
 
-<table>
+<table border-left:none border-right:none border-top:none border-bottom:none>
   <tr>
     <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></td> 
     <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></td>
