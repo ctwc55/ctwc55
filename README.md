@@ -4,10 +4,14 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></td> 
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></td>
+    <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></td> 
+    <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></td>
   </tr>
 </table>
+
+</br>
+
+## Solved.ac Stats
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ctwc55)](https://solved.ac/ctwc55)
 
