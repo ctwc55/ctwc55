@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![ctwc55's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctwc55&bgcolor=30,00e5ff,1200ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![ctwc55's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ctwc55)](https://solved.ac/ctwc55)
 
 <!--
 **ctwc55/ctwc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
