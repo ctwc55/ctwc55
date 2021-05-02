@@ -3,7 +3,7 @@
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="49%">&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="49%">
 </p>
 
