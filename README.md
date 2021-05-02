@@ -2,7 +2,12 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="50%">
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="50%"></td> 
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="50%"></td>
+  </tr>
+</table>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ctwc55)](https://solved.ac/ctwc55)
 
