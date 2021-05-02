@@ -2,10 +2,10 @@
 
 ## Github Stats
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table style="border: 0px solid transparent;">
   <tr>
-    <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></td> 
-    <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ctwc55&theme=algolia" width="100%"></td> 
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctwc55&layout=compact" width="100%"></td>
   </tr>
 </table>
 
