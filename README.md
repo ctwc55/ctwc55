@@ -24,11 +24,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=Unreal-Engine&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/AWS Route 53-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">&nbsp
 </p>
 
 <br>
+
+## 💡 Techs I'm currently interested in
+
+- Artificial Intelligence
+- Blockchain, DApp
+- DevOps, CI/CD
 
 ## ☕ Github Stats
 
