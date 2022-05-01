@@ -35,9 +35,8 @@
 
 ## 💡 Techs I'm currently interested in
 
-- Artificial Intelligence
-- Blockchain, DApp
 - DevOps, CI/CD
+- Blockchain, DApp
 
 <br>
 
