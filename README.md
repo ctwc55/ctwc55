@@ -36,6 +36,7 @@
 
 ## 💡 Techs I'm currently interested in
 
+- Spring Framework
 - DevOps, CI/CD
 - Blockchain, DApp
 
