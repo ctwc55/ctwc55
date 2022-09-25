@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/React-282C34?style=flat-square&logo=React&logoColor=61DAFB">&nbsp
   <br>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white">&nbsp
