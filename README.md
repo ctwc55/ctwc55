@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=Unreal-Engine&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/AWS Route 53-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">&nbsp
 </p>
 
 <br>
