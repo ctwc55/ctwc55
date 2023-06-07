@@ -23,7 +23,7 @@
 
 - Spring Framework
 - DevOps, CI/CD
-- Blockchain, DApp
+- Docker & Kubernetes
 
 <br>
 
