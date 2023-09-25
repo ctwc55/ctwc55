@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">&nbsp;
