@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ctwc55.github.io/"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"></a>&nbsp
-  <a href="https://www.linkedin.com/in/%EC%8A%B9%EC%97%B4-%EC%86%90-4b3812237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"></a>&nbsp
+  <a href="https://www.linkedin.com/in/ssy99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"></a>&nbsp
   <a href="https://www.instagram.com/sy_not_sr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>&nbsp
   <a href="mailto:ssy990408@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
 </p>
@@ -40,9 +40,8 @@
 
 ## 💡 Techs I'm currently interested in
 
-- Spring Framework
-- DevOps, CI/CD
-- Docker & Kubernetes
+- Spring Boot
+- Backend Automation
 
 <br>
 
